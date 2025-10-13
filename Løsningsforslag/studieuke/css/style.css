@@ -178,7 +178,7 @@ img{
 
 
 
-p::selection{
+p::sel{
     background-color: #fa8b15;
 }
 
